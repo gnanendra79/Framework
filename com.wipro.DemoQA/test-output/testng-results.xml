@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22746" started-at="2020-05-11T03:34:23Z" finished-at="2020-05-11T03:34:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22746" started-at="2020-05-11T03:34:23Z" finished-at="2020-05-11T03:34:45Z">
+      <class name="com.wipro.DemoQA.VerifyRentalCarBooking">
+        <test-method status="PASS" signature="verifyCarBook()[pri:0, instance:com.wipro.DemoQA.VerifyRentalCarBooking@47c62251]" name="verifyCarBook" duration-ms="22582" started-at="2020-05-11T03:34:23Z" finished-at="2020-05-11T03:34:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCarBook -->
+      </class> <!-- com.wipro.DemoQA.VerifyRentalCarBooking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
