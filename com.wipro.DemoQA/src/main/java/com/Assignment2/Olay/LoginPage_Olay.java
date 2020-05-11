@@ -36,8 +36,8 @@ public class LoginPage_Olay {
 		email.sendKeys(user_name);
 		password.sendKeys(pass);
 		signin.click();
-		//System.out.println(driver.getTitle());
-		//Assert.assertTrue(driver.getTitle().contains("View Profile"));
+		System.out.println(driver.getTitle());
+		Assert.assertTrue(driver.getTitle().contains("View Profile"));
 	}
 	
 	public void validateInvalidPassword(String user_name,String pass)
